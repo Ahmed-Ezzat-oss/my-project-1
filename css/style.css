@@ -716,6 +716,6 @@ input[type="url"], textarea {
     padding: 10px 35px;
     margin: 3px;
     border: 2px solid transparent;
-    border-radius: 2px;
+    border-radius: 50%;
 }
 /* fotter */
